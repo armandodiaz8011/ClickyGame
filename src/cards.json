@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Quagmire",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Glenn_Quagmire.png/220px-Glenn_Quagmire.png",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Stewie",
+    "image": "https://www.thoughtco.com/thmb/HDb8oODbDYm6Qdk9Kb18-exJyG4=/653x520/filters:no_upscale():max_bytes(150000):strip_icc()/fGuy2006_Stewie1_f-56a00b003df78cafda9fc746.jpg",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Meg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Meg_Griffin.png/185px-Meg_Griffin.png",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Lois",
+    "image": "https://i.pinimg.com/originals/b5/92/1b/b5921bb298f03331b93bd658d67e182a.jpg",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Chris",
+    "image": "https://lh3.googleusercontent.com/-bPI28y6A674/U4dE-VHqHBI/AAAAAAAAAG0/mVTEFJAlCOM/s400/623133_640px.jpg",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Brian",
+    "image": "http://images4.fanpop.com/image/photos/18900000/Family-Guy-family-guy-characters-18957193-300-300.jpg",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Bruce",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/c/cf/Bruce1.png/revision/latest?cb=20180109220223",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Herbert",
+    "image": "https://img.sharetv.com/shows/characters/large/family_guy.herbert.jpg",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Cleveland",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/Cleveland_Brown.png",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Joe",
+    "image": "https://i.pinimg.com/originals/b1/91/c2/b191c28a5cf51c0331c432ad0f1adb2a.png",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Adam West",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/a/ae/Mayor_Adam_West.png/revision/latest?cb=20180109220259",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Bonnie",
+    "image": "https://vignette.wikia.nocookie.net/familyguyfanon/images/e/ea/BonnieSwanson.png/revision/latest?cb=20161126055558",
+    "count": 0
+  }
+]
